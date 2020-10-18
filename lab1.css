@@ -1,0 +1,105 @@
+*{
+    color: white;
+    margin: 0%;
+    padding: 0%;
+}
+.bluebigbox{
+    background-color: blue;
+    height: 100%;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tablenlist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+aside{
+    margin-right: 5%;
+    margin-top: 3%;
+}
+td{
+    border: 1px solid white;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+img{
+    float: right;
+    margin-top: 5px;
+}
+table{
+    border: 1px solid white;
+}
+header, footer{
+    background-color: green;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20px;
+    text-align: center;
+    font-family: monospace;
+}
+.link{
+    style
+}
+h3{
+    padding: left: 5px;;
+}
+.j1{
+    color: red;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+section{
+    line-height: 20px;
+    padding-left: 5%;
+    margin-top: 25px;
+}
+.strangefigure{
+    height: 80px;
+    width: 80px;
+    border: 2px solid white;
+    border-bottom-right-radius: 15% ;
+    border-top-left-radius: 15%;
+    margin: 25px;
+    float: left;
+}
+.j2{
+    color: #0ed5f0
+}
+nav{
+    text-align: center;
+    margin-top: 10px;
+}
+a{
+    color: red
+}
+h2{
+    padding-top: 20px;
+    padding-left: 5%;
+}
+.cont{
+    padding-left: 20px;
+    margin-top: 10px;
+}
+li{
+    margin-left: 5%;
+    margin-top: 5px;
+}
+.tablenlist>div>ul{
+    list-style-type: none;
+}
+h4{
+    margin-left: 20px;
+    white-space: nowrap;
+}
+.crossed{
+    padding-top: 5px;
+}
+ul{
+    padding-left: 10px;
+}
